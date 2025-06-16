@@ -3,11 +3,6 @@ logs
 *.log
 #Node Modules
 
-frontend/node_modules/
-
-backend/node_modules/
-Cropozone.rar
-
 # Editor directories and files
 frontend/.env
 backend/.env
